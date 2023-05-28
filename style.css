@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* About Section */
 .about{
     display: flex;
 }
@@ -16,4 +17,24 @@
     text-align: center;
     padding: 12rem 0 0 0 ;
     font-size: 20px;
+}
+
+/* Our Team */
+
+.team h3{
+    text-align: center;
+    padding-top: 30px;
+}
+.team .box img{
+    width: 400px;
+    height: 150px;
+    background-color: aqua;
+}
+.team .card{
+    display: flex;
+}
+.team .sds {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
 }
