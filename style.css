@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.about{
+    display: flex;
+}
+.about .img img{
+    width: 500px;
+    height: 400px;
+    margin:  5rem 0 0 3rem ;
+}
+.about .about-content p{
+    text-align: center;
+    padding: 12rem 0 0 0 ;
+    font-size: 20px;
+}
