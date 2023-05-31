@@ -73,5 +73,13 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 2rem 0 0 41rem ;
+    margin: 0 0 0 41rem ;
+
+}
+
+/* footer */
+footer {
+    margin: 0 0 3rem 27rem ;
+    font-size: large;
+    word-spacing: 100px;
 }
